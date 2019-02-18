@@ -14,8 +14,6 @@ var earthPivot;
 var earthPivot3;
 var mesh;
 var planetViewed = 0;
-var audio = new Audio('https://interactive-examples.mdn.mozilla.net/media/examples/t-rex-roar.mp3');
-audio.play();
 init();
 animate();
 $(window).on('load', function() {
