@@ -1,0 +1,51 @@
+@font-face{font-family:icomoon;
+    src:url(fonts/icomoon.eot?qyx91o);
+    src:url(fonts/icomoon.eot?qyx91o#iefix) format('embedded-opentype'),url(fonts/icomoon.ttf?qyx91o) format('truetype'),url(fonts/icomoon.woff?qyx91o) format('woff'),url(fonts/icomoon.svg?qyx91o#icomoon) format('svg');
+    font-weight:400;
+    font-style:normal}
+    [class*=" icon-"],[class^=icon-]{font-family:icomoon!important;
+    speak:none;
+    font-style:normal;
+    font-variant:normal;
+    text-transform:none;
+    line-height:1;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale}body{color:#000;
+        font-family:Raleway;
+        font-size:15px;
+        font-weight:700;height:100%;width:100%;
+        margin:0;overflow:hidden}
+#content{
+    position:absolute}
+body #container .social{
+            padding:0;
+            left:50px;
+            bottom:-50px;
+            position:absolute}
+body #container .social li{
+                display:inline-block;
+                margin-right:25px}
+body #container .social li a{
+                color:#fff;
+                text-decoration:none}
+                
+body #container .social li a .icon-facebook:before{
+                content:"\ea90";
+                transition:.5s}
+body #container .social li a .icon-twitter:before{
+                content:"\ea96";
+                transition:.5s}
+body #container .social li a .icon-google3:before{
+                content:"\ea8a";
+                transition:.5s}
+
+
+body #container .social li a:hover{
+                color:#f66120}
+body #container img{
+                position:absolute;
+                left:50px;z-index:2;
+                width:2px;height:0;
+                top:50%;
+                margin-top:-100px}
+body #container #welcome{opacity:0;width:900px;padding-left:20px;color:#fff;font-size:18pt;position:absolute;top:50%;margin-top:-50px;left:50px}body #container #welcome #lastSentence{font-family:Raleway;margin:0;font-weight:400;font-size:14pt}body #container #welcome #firstSentence{font-weight:500;font-size:22pt;margin:2px 0 8px}body #container #welcome #universe{text-transform:uppercase;font-family:Raleway;font-weight:800}body #container #content{top:50%;margin-top:-105px;width:500px;left:70px}body #container #content h2{margin:0}body #container #content span{font-family:Raleway;font-weight:600}body #container #content #contentTitle{font-family:Raleway;color:#fff;opacity:1;font-weight:200;letter-spacing:1.5px;font-size:26pt}body #container #content #contentTitle span{color:#F66120}body #container #content #contentTitle div{font-size:12pt;display:inline-block}body #container #content #subtitle{letter-spacing:1.5px;margin:0;font-size:16pt;font-family:Raleway;font-weight:200;color:#fff}body #container #content #description{color:#fff;letter-spacing:1.5px;font-family:Raleway;font-weight:200;font-size:16pt}body #container #content #description span{color:#F66120}body #container #content #description div{color:#acacac;font-size:10pt}body #container #content #description a{color:#fff;line-height:10px;transition:.3s}body #container #content #description a:hover{line-height:11px;font-weight:500}
