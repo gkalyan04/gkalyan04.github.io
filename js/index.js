@@ -238,7 +238,7 @@ function onMouseDown(event) {
                         
                         info.innerHTML = "I'm Gandhapu <span>Kalyan</span>,";
                         subtitle.innerHTML = "a <span>Developer</span> from <span>Hyderabad (India)</span><br/> I love turning exciting <span>ideas</span> into beautiful <span>products.</span>";
-                        description.innerHTML = "Bharati Vidyapeeth's College of Engineering New Delhi Class of <span>2021</span><br/><a target='_blank' href='https://drive.google.com/file/d/1ihZyegdYvYob6oqsh8je5-rGZI6-9JAU/view?usp=sharing'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
+                        description.innerHTML = "Bharati Vidyapeeth's College of Engineering New Delhi Class of <span>2021</span><br/><a target='_blank' href='https://drive.google.com/file/d/1ni2ONnrmSoAA4fJYvDytUZzXLWACsCzR/view?usp=sharing'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
                     }
                     if (planetViewed == 2 || planetViewed==3 || planetViewed==4) {
                         planetViewed = 1;
