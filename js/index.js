@@ -265,7 +265,7 @@ function onMouseDown(event) {
                        
                           info.innerHTML = "I'm Gandhapu <span>Kalyan</span>,";
                         subtitle.innerHTML = "a <span>Developer</span> from <span>Hyderabad (India)<span>. I love turning exciting ideas into beautiful products.";
-                        description.innerHTML = "Bharati Vidyapeeth's College of Engineering New Delhi Class of <span>2021</span><br/><a target='_blank' href='https://drive.google.com/file/d/1ihZyegdYvYob6oqsh8je5-rGZI6-9JAU/view?usp=sharing'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
+                        description.innerHTML = "Bharati Vidyapeeth's College of Engineering New Delhi Class of <span>2021</span><br/><a target='_blank' href='https://drive.google.com/file/d/1SznWmwyEfRLnC442eW1Y9w5TXvxCfug6/view'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
 
                     }
                 }
